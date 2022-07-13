@@ -1,3 +1,4 @@
+# Телеграм-бот "Погобот". Запрашивает горд и выдаёт погоду на текущий день
 import datetime
 import requests
 from aiogram import Bot, types
